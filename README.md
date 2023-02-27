@@ -8,7 +8,6 @@
    d) type command 'npm install'
    e) type command  'npm start'
 
-
 2) steps to run backend server: - NodeJS
 
    a) unzip 'student_management_app.zip'  file
@@ -17,9 +16,8 @@
    d) type command 'npm install'
    e) type command  'node index.js'
 
-
 3) steps to import 'crud_operation.sql' file xampp phpmyadmin
-
+ 
    a) open xampp server
    b) start 'Apache' server and 'Mysql' database
    c) open browser and type "http://localhost/phpmyadmin"
