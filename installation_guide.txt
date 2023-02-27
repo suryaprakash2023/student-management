@@ -1,5 +1,3 @@
-# student-management
-
 1) steps to run UI Server: - ReactJS
 
    a) unzip 'student_management_app.zip'  file
