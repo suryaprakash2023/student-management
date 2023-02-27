@@ -1,0 +1,27 @@
+1) steps to run UI Server: - ReactJS
+
+   a) unzip 'student_management_app.zip'  file
+   b) copy  'student_management_app' folder and paste it on "C:" drive
+   c) open command prompt and set path by using the following command "cd C:/student_management_app/client"
+   d) type command 'npm install'
+   e) type command  'npm start'
+
+
+2) steps to run backend server: - NodeJS
+
+   a) unzip 'student_management_app.zip'  file
+   b) copy  'student_management_app' folder and paste it on "C:" drive
+   c) open command prompt and set path by using the following command "cd C:/student_management_app/server"
+   d) type command 'npm install'
+   e) type command  'node index.js'
+
+
+3) steps to import 'crud_operation.sql' file xampp phpmyadmin
+
+   a) open xampp server
+   b) start 'Apache' server and 'Mysql' database
+   c) open browser and type "http://localhost/phpmyadmin"
+   d) create new database with the name "crud_operation"
+   e) click 'import' option and select 'crud_operation.sql' file and click ok. Now 'employee' table is imported in your database.
+
+Project Demo video : https://www.awesomescreenshot.com/video/15035817?key=eca2fad89414ef10df6a2ea1582346b6
